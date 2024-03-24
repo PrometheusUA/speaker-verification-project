@@ -1,0 +1,3 @@
+*.pt
+!efficientnet_1.0.8.pt
+!head_efficientnet_1.0.8.pt
