@@ -2,3 +2,5 @@
 data/
 */.ipynb_checkpoints/
 /features/pretrained_models/
+__pycache__/
+plda/embeddings/*.csv
